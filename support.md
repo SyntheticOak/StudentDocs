@@ -2,7 +2,7 @@
 
 If you need help with StudentDocs for macOS, contact:
 
-- **Email:** syntheticoak@proton.me (or your Gmail)
+- **Email:** syntheticoak@proton.me
 - **Response time:** We aim to reply within 48 hours.
 - **App version:** 1.0
 - **Platform:** macOS
